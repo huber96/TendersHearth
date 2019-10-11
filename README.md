@@ -14,20 +14,25 @@ Basic rim light effect on top of a screenspace texture.
 ### 3) Toon
 Stepped lighting for toon effect, added rim light.
 
-![Shader 3 - ](./ReadmeImages/tender3.png)
+![Shader 3 - Toon](./ReadmeImages/tender3.png)
 
 ### 4) Soft toon
 Similar to toon, except smoothstep for softer shadows.
 
-![Dijkstra demo](./ReadmeImages/tender4.png)
+![Shader 4 - Soft toon](./ReadmeImages/tender4.png)
 
 ### 5) Hologram glitch
 Scrolling texture and vertex shader that occassionally "glitches".
 
-![Dijkstra demo](./ReadmeImages/tender5.png)
+![Shader 5 - Hologram glitch](./ReadmeImages/tender5.png)
 
-### 6)
+### 6) Flat
 Flat shading, however it only works with the main directional light.
 
-![Dijkstra demo](./ReadmeImages/tender6.png)
+![Shader 6 - Flat](./ReadmeImages/tender6.png)
+
+## Demo video
+
+[![link na video](./ReadmeAssets/adv_dijalog.png)](https://youtu.be/do1Bcg_iiEY "Platformer demo")
+
 
